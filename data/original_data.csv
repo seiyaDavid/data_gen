@@ -1,0 +1,9 @@
+numerical_column,date_column,categorical_column,names,cost,ID
+2,2023-01-01,B,Natalie Hutchinson MD,355.0366516113281,A1095
+1,2023-01-01,A,Willie Johnson,200.4499969482422,C3907
+2,2023-01-01,A,John Sampson,200.4499969482422,Z1095
+1,2023-01-01,A,Gina Hernandez,200.4499969482422,A0095
+3,2023-01-01,A,Richard Elliott,200.4499969482422,P6095
+1,2023-01-01,A,Patricia Harvey,200.4499969482422,D8795
+
+
